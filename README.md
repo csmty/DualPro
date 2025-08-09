@@ -7,8 +7,8 @@
 
 
 ## 🔎 Overview framework
-![Network](/figs/Figures_Framework.png)
-![Framework](/figs/Figures_network7.png)
+![Network](/figs/Figures_Framework.webp)
+![Framework](/figs/Figures_network7.webp)
 
 ## ⚙️ Method Setup
 In our proposed **Dual-Perception Prompt Learning** framework, we jointly leverage *illumination-adaptive guidance* and *semantic-aware guidance* to tackle the backlit image enhancement problem.
@@ -29,9 +29,9 @@ Standard data augmentation techniques (random crop, horizontal/vertical flip, ro
 - **Hardware**: 1 × NVIDIA RTX 4090 GPUs
 
 ## 📷 Quantitative comparison results
-![Comparison results of BAID Dataset.](/figs/Figures_BAID4.png)
-![Comparison results of MIT Dataset.](/figs/Figures_mit3.png)
-![Comparison results of SICE Dataset.](/figs/Figures_app_low.png)
-![Comparison results of MSEC Dataset.](/figs/Figures_app_over.png)
+![Comparison results of BAID Dataset.](/figs/Figures_BAID4.webp)
+![Comparison results of MIT Dataset.](/figs/Figures_mit3.webp)
+![Comparison results of SICE Dataset.](/figs/Figures_app_low.webp)
+![Comparison results of MSEC Dataset.](/figs/Figures_app_over.webp)
 
 
